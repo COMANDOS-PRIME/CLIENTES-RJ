@@ -1,13 +1,4 @@
 #EXTM3U
- 
-#######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/417/164/full/an-msdn-tv-logo.png?1571028778" group-title="INFORMAÇÕES",💜❤💛💚💙📺📡 CANAIS PREMIUM 📡📺💙💚💛❤💜
-https://busqueieencontrei.com/wp-content/uploads/2018/07/painelbanner-iptv.jpg
- 
-#EXTINF:-1 tvg-logo="https://i.screenshot.net/zplkohn" group-title="INFORMAÇÕES",💜❤💛💚💙📡📺 O  MELHOR  DOS  CANAIS  PREMIUM  EM  SUAS  MÃOS 📺📡💙💚💛❤💜
-https://uploaddeimagens.com.br/images/002/417/169/full/iptv-002.jpg?1571029102
-#######################################################################################################################################
-
 #EXTINF:-1 tvg-id="A&E | FHD" tvg-name="A&E HD " tvg-logo="http://img.brgo.xyz/img/aandehd.png" group-title="Filmes / Séries",A&E HD
 http://main.icontv.in:80/live/clara/121819/61720.m3u8
 #EXTINF:-1 tvg-id="A&E | SD" tvg-name="A&E SD " tvg-logo="http://img.brgo.xyz/img/aandehd.png" group-title="Filmes / Séries",A&E SD
@@ -140,10 +131,12 @@ http://main.icontv.in:80/live/clara/121819/62894.m3u8
 http://main.icontv.in:80/live/clara/121819/62893.m3u8
 #EXTINF:-1 tvg-id="Curta ! | SD" tvg-name="CURTA! HD " tvg-logo="http://img.brgo.xyz/img/curta.png" group-title="Variedades / Música",CURTA! HD
 http://main.icontv.in:80/live/clara/121819/68326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="" group-title="Esportes",DAZN FHD
-http://main.icontv.in:80/live/clara/121819/70839.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SD" tvg-logo="" group-title="Esportes",DAZN SD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD" tvg-logo="http://img.brgo.xyz/img/dazn.png" group-title="Esportes",DAZN 01 HD
 http://main.icontv.in:80/live/clara/121819/70838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD" tvg-logo="http://img.brgo.xyz/img/dazn.png" group-title="Esportes",DAZN 02 HD
+http://main.icontv.in:80/live/clara/121819/70839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 SD" tvg-logo="http://img.brgo.xyz/img/dazn.png" group-title="Esportes",DAZN 03 SD
+http://main.icontv.in:80/live/clara/121819/71101.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel | HD" tvg-name="DISCOVERY CHANNEL HD " tvg-logo="http://img.brgo.xyz/img/discoverychannel.png" group-title="Documentários",DISCOVERY CHANNEL HD
 http://main.icontv.in:80/live/clara/121819/61697.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel | SD" tvg-name="DISCOVERY CHANNEL SD " tvg-logo="http://img.brgo.xyz/img/discoverychannel.png" group-title="Documentários",DISCOVERY CHANNEL SD
@@ -192,6 +185,14 @@ http://main.icontv.in:80/live/clara/121819/62884.m3u8
 http://main.icontv.in:80/live/clara/121819/61686.m3u8
 #EXTINF:-1 tvg-id="E! | HD" tvg-name="E! SD " tvg-logo="http://img.brgo.xyz/img/e!.png" group-title="Variedades / Música",E! SD
 http://main.icontv.in:80/live/clara/121819/62883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 01 HD" tvg-logo="http://icontv.in/tBuhQ" group-title="Esportes",EIPLUS 01 HD
+http://main.icontv.in:80/live/clara/121819/71099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 01 SD" tvg-logo="http://icontv.in/tBuhQ" group-title="Esportes",EIPLUS 01 SD
+http://main.icontv.in:80/live/clara/121819/71098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS HD" tvg-logo="http://icontv.in/tBuhQ" group-title="Esportes",EIPLUS HD
+http://main.icontv.in:80/live/clara/121819/71096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS SD" tvg-logo="http://icontv.in/tBuhQ" group-title="Esportes",EIPLUS SD
+http://main.icontv.in:80/live/clara/121819/71097.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="ESPN 2 HD " tvg-logo="http://img.brgo.xyz/img/espn2.png" group-title="Esportes",ESPN 2 HD
 http://main.icontv.in:80/live/clara/121819/61683.m3u8
 #EXTINF:-1 tvg-id="ESPN Brasil | HD" tvg-name="ESPN BRASIL HD " tvg-logo="http://img.brgo.xyz/img/espnbrasil.png" group-title="Esportes",ESPN BRASIL HD
@@ -424,6 +425,14 @@ http://main.icontv.in:80/live/clara/121819/61642.m3u8
 http://main.icontv.in:80/live/clara/121819/62808.m3u8
 #EXTINF:-1 tvg-id="Music Box Brazil | SD" tvg-name="MUSIC BOX BRASIL SD " tvg-logo="http://img.brgo.xyz/img/musicboxbrazil.png" group-title="Variedades / Música",MUSIC BOX BRASIL SD
 http://main.icontv.in:80/live/clara/121819/62807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicas: Forró" tvg-logo="https://img.vagalume.fm/147015501223418/bg" group-title="Musicas",Musicas: Forró
+http://main.icontv.in:80/live/clara/121819/71042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicas: Funk" tvg-logo="https://img.vagalume.fm/1470154922349875/bg" group-title="Musicas",Musicas: Funk
+http://main.icontv.in:80/live/clara/121819/71061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicas: Pagode" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_1mF1FbX-Vyh_8QrHoFlp4XmtqqTHeMAFQ54FhLkNOfv1Pcikw&s" group-title="Musicas",Musicas: Pagode
+http://main.icontv.in:80/live/clara/121819/71043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicas: POP" tvg-logo="https://img.vagalume.fm/1470169276225492/default" group-title="Musicas",Musicas: POP
+http://main.icontv.in:80/live/clara/121819/71062.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Musicas: Sertanejo" tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/1922071_1534771420094156_6394651083295723682_n.png?_nc_cat=101&_nc_ohc=shM37Jl2gI0AX9k9QUr&_nc_ht=scontent-lga3-1.xx&oh=54d3993ebe90729cf96bc97ab0e8aee5&oe=5E9AD699" group-title="Musicas",Musicas: Sertanejo
 http://main.icontv.in:80/live/clara/121819/70786.m3u8
 #EXTINF:-1 tvg-id="NatGeo Kids | HD" tvg-name="NATGEO HD " tvg-logo="http://img.brgo.xyz/img/natgeohd.png" group-title="Documentários",NATGEO HD
@@ -686,10 +695,8 @@ http://main.icontv.in:80/live/clara/121819/62728.m3u8
 http://main.icontv.in:80/live/clara/121819/68328.m3u8
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO SD " tvg-logo="http://img.brgo.xyz/img/Zoomoo_logo.png" group-title="Kids",ZOOMOO SD
 http://main.icontv.in:80/live/clara/121819/62727.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Musicas: Forró" tvg-logo="https://img.vagalume.fm/147015501223418/bg" group-title="Musicas",Musicas: Forró
-http://main.icontv.in:80/live/clara/121819/71042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Musicas: Pagode" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_1mF1FbX-Vyh_8QrHoFlp4XmtqqTHeMAFQ54FhLkNOfv1Pcikw&s" group-title="Musicas",Musicas: Pagode
-http://main.icontv.in:80/live/clara/121819/71043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ACRITICA" tvg-logo="" group-title="Canais Abertos",TV ACRITICA
+http://main.icontv.in:80/live/clara/121819/71115.m3u8
 #EXTINF:-1 tvg-id="A&E | FHD" tvg-name="A&E FHD  " tvg-logo="http://img.brgo.xyz/img/aandehd.png" group-title="Filmes / Séries",A&E FHD
 http://main.icontv.in:80/live/clara/121819/61906.m3u8
 #EXTINF:-1 tvg-id="AMC | FHD" tvg-name="AMC FHD " tvg-logo="http://img.brgo.xyz/img/amchd.png" group-title="Filmes / Séries",AMC FHD
@@ -730,6 +737,8 @@ http://main.icontv.in:80/live/clara/121819/61894.m3u8
 http://main.icontv.in:80/live/clara/121819/61893.m3u8
 #EXTINF:-1 tvg-id="Curta ! | SD" tvg-name="CURTA! FHD" tvg-logo="http://img.brgo.xyz/img/curta.png" group-title="Variedades / Música",CURTA! FHD
 http://main.icontv.in:80/live/clara/121819/69208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 FHD" tvg-logo="http://img.brgo.xyz/img/dazn.png" group-title="Esportes",DAZN 03 FHD
+http://main.icontv.in:80/live/clara/121819/71100.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel | FHD" tvg-name="DISCOVERY CHANNEL FHD  " tvg-logo="http://img.brgo.xyz/img/discoverychannel.png" group-title="Documentários",DISCOVERY CHANNEL FHD
 http://main.icontv.in:80/live/clara/121819/61892.m3u8
 #EXTINF:-1 tvg-id="Discovery Civilization | HD" tvg-name="DISCOVERY CIVILIZATION FHD  " tvg-logo="http://img.brgo.xyz/img/discoverycivilization.png" group-title="Documentários",DISCOVERY CIVILIZATION FHD

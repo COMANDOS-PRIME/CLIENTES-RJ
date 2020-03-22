@@ -429,8 +429,6 @@ http://main.icontv.in:80/live/LARANJA/laranjamrv/61652.m3u8
 http://main.icontv.in:80/live/LARANJA/laranjamrv/62819.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="I SAT SD " tvg-logo="http://img.brgo.xyz/img/isat.png" group-title="Canais Abertos",I SAT SD
 http://main.icontv.in:80/live/LARANJA/laranjamrv/62818.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="iCON SPORTS HD :TRANSMISSÃO EXTRA:" tvg-logo="http://img.brgo.xyz/img/canalextra.png" group-title="Esportes",iCON SPORTS HD :TRANSMISSÃO EXTRA:
-http://main.icontv.in:80/live/LARANJA/laranjamrv/72227.m3u8
 #EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID DISCOVERY HD " tvg-logo="http://img.brgo.xyz/img/idhd.png" group-title="Documentários",ID DISCOVERY HD
 http://main.icontv.in:80/live/LARANJA/laranjamrv/61650.m3u8
 #EXTINF:-1 tvg-id="LIV" tvg-name="ID DISCOVERY SD " tvg-logo="http://img.brgo.xyz/img/idhd.png" group-title="Documentários",ID DISCOVERY SD
@@ -1151,3 +1149,299 @@ http://main.icontv.in:80/live/LARANJA/laranjamrv/69127.m3u8
 http://main.icontv.in:80/live/LARANJA/laranjamrv/70772.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Zé Colmeia" tvg-logo="http://main.icontv.in:80/images/de3cae05a932bd7c034c57b77c3dbd3b.jpg" group-title="Canais 24 horas",24Hs: Zé Colmeia
 http://main.icontv.in:80/live/LARANJA/laranjamrv/71648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS 01 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS 02 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS 03 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS 04 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS 04 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS 05 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS 05 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS 06 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS 06 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS 07 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS 07 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS 08 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS 08 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS 09 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS 09 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS 10 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS 10 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS GLOBAL HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS GLOBAL HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS NBA" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS NBA
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: beIN SPORTS NEWS" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: beIN SPORTS NEWS
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE AE: OSN FIGHT CHANNEL WORLD HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE AE: OSN FIGHT CHANNEL WORLD HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE ARG: ESPN 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Esportes Internacionais: Canais Extras",ESPORTE ARG: ESPN 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE ARG: ESPN 03 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Esportes Internacionais: Canais Extras",ESPORTE ARG: ESPN 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE ARG: ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Esportes Internacionais: Canais Extras",ESPORTE ARG: ESPN HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE ARG: ESPN+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Esportes Internacionais: Canais Extras",ESPORTE ARG: ESPN+ HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE BO: TIGO  SPORTS 01 HD" tvg-logo="https://www.grassvalley.com/assets/media/9796/tigo-sports_main.png" group-title="Esportes Internacionais: Canais Extras",ESPORTE BO: TIGO  SPORTS 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE BO: TIGO  SPORTS 02 HD" tvg-logo="https://www.grassvalley.com/assets/media/9796/tigo-sports_main.png" group-title="Esportes Internacionais: Canais Extras",ESPORTE BO: TIGO  SPORTS 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE BO: TIGO  SPORTS 03 HD" tvg-logo="https://www.grassvalley.com/assets/media/9796/tigo-sports_main.png" group-title="Esportes Internacionais: Canais Extras",ESPORTE BO: TIGO  SPORTS 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE BO: TV DEPORTES BOLIVIA SD" tvg-logo="https://www.grassvalley.com/assets/media/9796/tigo-sports_main.png" group-title="Esportes Internacionais: Canais Extras",ESPORTE BO: TV DEPORTES BOLIVIA SD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE CA: SPORTSNET 360 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE CA: SPORTSNET 360 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE CA: SPORTSNET EAST HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE CA: SPORTSNET EAST HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE CA: SPORTSNET ONE HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE CA: SPORTSNET ONE HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE CA: SPORTSNET ONTARIO HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE CA: SPORTSNET ONTARIO HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE CA: SPORTSNET PACIFIC HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE CA: SPORTSNET PACIFIC HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE CA: SPORTSNET WORLD HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE CA: SPORTSNET WORLD HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: AUTO MOTOR SPORT HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: AUTO MOTOR SPORT HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: DAZN 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: DAZN 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: DAZN 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: DAZN 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: EUROSPORT 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: EUROSPORT 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: EUROSPORT 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: EUROSPORT 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: EUROSPORT 02 XTRA HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: EUROSPORT 02 XTRA HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: FC BAYERN TV HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: FC BAYERN TV HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: MOTORVISION TV HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: MOTORVISION TV HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT 03 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT 04 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT 04 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT 05 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT 05 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT 06 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT 06 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT 07 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT 07 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT 08 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT 08 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT 09 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT 09 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT 10 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT 10 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT AUSTRIA HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT AUSTRIA HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT BUNDESLIGA 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT BUNDESLIGA 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT BUNDESLIGA 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT BUNDESLIGA 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT BUNDESLIGA 03 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT BUNDESLIGA 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT BUNDESLIGA 04 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT BUNDESLIGA 04 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT BUNDESLIGA 05 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT BUNDESLIGA 05 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT BUNDESLIGA 06 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT BUNDESLIGA 06 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT BUNDESLIGA 07 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT BUNDESLIGA 07 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT BUNDESLIGA 08 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT BUNDESLIGA 08 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT BUNDESLIGA 09 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT BUNDESLIGA 09 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT BUNDESLIGA 10 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT BUNDESLIGA 10 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SKY SPORT NEWS HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SKY SPORT NEWS HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE DE: SPORT DIGITAL HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE DE: SPORT DIGITAL HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE ES: M.LIGA DE CAMPEONES 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE ES: M.LIGA DE CAMPEONES 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE ES: M.LIGA DE CAMPEONES 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE ES: M.LIGA DE CAMPEONES 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE ES: M.LIGA DE CAMPEONES 03 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE ES: M.LIGA DE CAMPEONES 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE ES: M.LIGA DE CAMPEONES 04 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE ES: M.LIGA DE CAMPEONES 04 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE ES: M.LIGA DE CAMPEONES HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE ES: M.LIGA DE CAMPEONES HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE ES: MOVISTAR F1 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE ES: MOVISTAR F1 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE ES: MOVISTAR LALIGA HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE ES: MOVISTAR LALIGA HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE ES: REAL MADRID TV HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE ES: REAL MADRID TV HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: beIN SPORTS 01 HD" tvg-logo="https://w0.pngwave.com/png/926/67/bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-png-clip-art.png" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: beIN SPORTS 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: beIN SPORTS 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: beIN SPORTS 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: beIN SPORTS 03 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: beIN SPORTS 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: beIN SPORTS MAX 04 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: beIN SPORTS MAX 04 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: beIN SPORTS MAX 05 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: beIN SPORTS MAX 05 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: beIN SPORTS MAX 06 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: beIN SPORTS MAX 06 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: beIN SPORTS MAX 07 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: beIN SPORTS MAX 07 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: beIN SPORTS MAX 08 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: beIN SPORTS MAX 08 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: beIN SPORTS MAX 09 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: beIN SPORTS MAX 09 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: EUROSPORT 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: EUROSPORT 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: EUROSPORT 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: EUROSPORT 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: RMC SPORT 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: RMC SPORT 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: RMC SPORT 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: RMC SPORT 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: RMC SPORT 03 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: RMC SPORT 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE FR: RMC SPORT 04 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE FR: RMC SPORT 04 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: beIN SPORTS N HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: beIN SPORTS N HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: CLARO SPORTS 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: CLARO SPORTS 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: CLARO SPORTS 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: CLARO SPORTS 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: ESPN 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: ESPN 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: ESPN 02 SUR HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: ESPN 02 SUR HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: ESPN 03 SUR HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: ESPN 03 SUR HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: ESPN PLUS SUR HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: ESPN PLUS SUR HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: FOX DEPORTES HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: FOX DEPORTES HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: FOX SPORTS 01 MX HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: FOX SPORTS 01 MX HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: FOX SPORTS 01 SUR HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: FOX SPORTS 01 SUR HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: FOX SPORTS 02 MX HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: FOX SPORTS 02 MX HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: FOX SPORTS 02 SUR HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: FOX SPORTS 02 SUR HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: FOX SPORTS 03 MX HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: FOX SPORTS 03 MX HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: FOX SPORTS 03 SUR HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: FOX SPORTS 03 SUR HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: GOL TV HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: GOL TV HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: TUDN 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: TUDN 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: TUDN 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: TUDN 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: TUDN 03 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: TUDN 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: TUDN 04 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: TUDN 04 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: TUDN 05 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: TUDN 05 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: TUDN 06 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: TUDN 06 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: TUDN 07 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: TUDN 07 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: TUDN 08 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: TUDN 08 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: TUDN 09 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: TUDN 09 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: TUDN 10 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: TUDN 10 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: TUDN HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: TUDN HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE LAT: WINSPORTS HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE LAT: WINSPORTS HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE MX: ESPN 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE MX: ESPN 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE MX: ESPN 03 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE MX: ESPN 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE MX: ESPN HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE MX: ESPN HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE MX: ESPN U HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE MX: ESPN U HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE MX: ESPN+ HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE MX: ESPN+ HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE MX: FOX SPORTS 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE MX: FOX SPORTS 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE MX: FOX SPORTS 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE MX: FOX SPORTS 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE MX: FOX SPORTS 03 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE MX: FOX SPORTS 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PE: GOL PERU HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PE: GOL PERU HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PE: MOVISTAR DEPORTES HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PE: MOVISTAR DEPORTES HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PE: MOVISTAR PLUS HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PE: MOVISTAR PLUS HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: A BOLA TV HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: A BOLA TV HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: BTV HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: BTV HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: ELEVEN SPORTS 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: ELEVEN SPORTS 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: ELEVEN SPORTS 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: ELEVEN SPORTS 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: ELEVEN SPORTS 03 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: ELEVEN SPORTS 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: ELEVEN SPORTS 04 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: ELEVEN SPORTS 04 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: ELEVEN SPORTS 05 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: ELEVEN SPORTS 05 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: ELEVEN SPORTS 06 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: ELEVEN SPORTS 06 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: EUROSPORT 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: EUROSPORT 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: EUROSPORT 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: EUROSPORT 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: KOMBAT SPORT HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: KOMBAT SPORT HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: PFC HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: PFC HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: SPORT TV 01 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: SPORT TV 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: SPORT TV 02 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: SPORT TV 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: SPORT TV 03 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: SPORT TV 03 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: SPORT TV 04 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: SPORT TV 04 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: SPORT TV 05 HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: SPORT TV 05 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: SPORT TV+ HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: SPORT TV+ HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: SPORTING TV HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: SPORTING TV HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE PT: WWE NETWORK HD" tvg-logo="" group-title="Esportes Internacionais: Canais Extras",ESPORTE PT: WWE NETWORK HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE US: beIN SPORTS 01 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE US: beIN SPORTS 01 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE US: beIN SPORTS 02 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE US: beIN SPORTS 02 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE US: beIN SPORTS 04 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE US: beIN SPORTS 04 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE US: beIN SPORTS 06 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE US: beIN SPORTS 06 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE US: beIN SPORTS 07 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE US: beIN SPORTS 07 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE US: beIN SPORTS 08 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE US: beIN SPORTS 08 HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE US: beIN SPORTS LALIGA HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Esportes Internacionais: Canais Extras",ESPORTE US: beIN SPORTS LALIGA HD
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iCON SPORTS HD :TRANSMISSÃO EXTRA:" tvg-logo="http://img.brgo.xyz/img/canalextra.png" group-title="Esportes",iCON SPORTS HD :TRANSMISSÃO EXTRA:
+http://main.icontv.in:80/live/LARANJA/laranjamrv/72227.m3u8
